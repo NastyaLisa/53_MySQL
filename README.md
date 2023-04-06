@@ -1,1 +1,11 @@
 # 53_MySQL
+1. ORDER BY
+2. LIMIT
+3. DISTINCT
+4. COUNT()
+5. GROUP BY
+6. Aliases -AS
+7. JOIN ON
+
+
+
